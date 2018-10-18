@@ -47,7 +47,7 @@
         <counts>
           <entry key="css" value="240" />
           <entry key="html" value="10" />
-          <entry key="js" value="452" />
+          <entry key="js" value="476" />
           <entry key="jsx" value="15" />
           <entry key="md" value="65" />
         </counts>
@@ -57,7 +57,7 @@
           <entry key="CSS" value="240" />
           <entry key="HTML" value="10" />
           <entry key="JSX Harmony" value="15" />
-          <entry key="JavaScript" value="452" />
+          <entry key="JavaScript" value="476" />
           <entry key="Markdown" value="65" />
         </counts>
       </usages-collector>
@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="352" selection-start-line="21" selection-start-column="352" selection-end-line="21" selection-end-column="352" />
+            <state relative-caret-position="345">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -256,12 +256,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539889852664</updated>
       <workItem from="1539889855596" duration="2965000" />
-      <workItem from="1539893762810" duration="1123000" />
+      <workItem from="1539893762810" duration="1425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4088000" />
+    <option name="totallyTimeSpent" value="4390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1625" y="23" width="1815" height="1417" extended-state="0" />
@@ -357,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="352" selection-start-line="21" selection-start-column="352" selection-end-line="21" selection-end-column="352" />
+        <state relative-caret-position="345">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

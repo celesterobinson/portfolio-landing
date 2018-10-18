@@ -13,6 +13,7 @@ class App extends Component {
           </p>
           <p>Click<a
             className="App-link"
+            id="conversionLink"
             href="https://www.cececodes.com"
             target="_blank"
             rel="noopener noreferrer"
